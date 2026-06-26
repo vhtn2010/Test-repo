@@ -1,12 +1,12 @@
 dòng 1
 dòng 2
-dòng 3
+dòng 3 konichiwa
 dòng 4
-dòng 5
+dòng 5 		tieminkyuc
 dòng 6
-dòng 7
+dòng 7    anime 
 dòng 8
 dòng 9
-dòng 10
+dòng 10    hello my name is ngân
 dòng 11
-dòng 12
+dòng 12   kawaii
