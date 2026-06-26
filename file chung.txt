@@ -1,6 +1,7 @@
 dòng 1
 dòng 2
 dòng 3 konichiwa
+dòng 3 - Hai edit
 dòng 4
 dòng 5 		tieminkyuc
 dòng 6
@@ -10,3 +11,7 @@ dòng 9
 dòng 10    hello my name is ngân
 dòng 11
 dòng 12   kawaii
+dòng 9 - Hai alsdka
+dòng 10
+dòng 11
+dòng 12 - Hai jkaiw
